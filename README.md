@@ -1,26 +1,12 @@
-# Repositório de aulas ao vivo para estudantes da Turma 20 - Tribo B
+# Site da Trybe como exercício para HTML E CSS
 
-Este repositório armazena os códigos e scripts fornecidos durante as aulas ao vivo pelos especialistas da Trybe.
+Este repositório guardará todas alterações feitas por mim no site teste da Trybe para
+treinamento como desenvolvimento HTML e CSS
 
-## Começando
+## MAIN
 
-Basta clonar o repositório
+Todas alterações serão feitas na main, sendo geridas pelo repositório
 
-```sh
-git clone git@github.com:tryber/sd-016-a-live-lectures.git
-```
+git@github.com:tryber/sd-020-b-live-lectures.git
 
-Em seguida acessar a branch do Pull Request da aula seguindo o padrão de nomenclatura das branchs **(nome-branch-aula-ao-vivo)**
 
-Exemplo:
-```sh
-git checkout lecture/3.1
-```
-
----
-
-### Estrutura
-
-Todos os conteúdos dados em aulas estarão no seu respectivo Pull Request! 😉
-
----
