@@ -1,0 +1,77 @@
+html {
+  scroll-behavior: smooth;
+  font-size: 62.5%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: inherit;
+    color: #0a7e51;
+}
+
+p, li {
+    color: #475550;
+    font-size: 2rem;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 8rem;
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: rgba(255, 255, 255, 0.97);
+  z-index: 999;
+  box-shadow: 0 1.2rem 3.2rem rgba(0, 0, 0, 0.03);
+}
+
+.header-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem 9rem 2rem 9rem;
+  }
+  
+  .logo-side {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.logo-callin {
+  margin-right: 3rem;
+}
+
+.logo-btn {
+  font-size: 1.425rem;
+  font-weight: 600;
+  color: #11a36a;
+  padding: 1rem 1.5rem;
+  border: 0.25rem solid #11a36a;
+  border-radius: 0.5rem;
+  text-decoration: none;
+}
+
+.logo-callin--text {
+  font-size: 1.425rem;
+  font-weight: 600;
+  text-decoration: none;
+
+}
+.logo-callin--text:hover {
+  color: #181a18;
+}
+.logo-callin--text:active {
+  color: #181a18;
+}
+.logo-callin--text:visited {
+  color: #181a18;
+}
+.logo-callin--text:link {
+  color: #181a18;
+}
+
+  
